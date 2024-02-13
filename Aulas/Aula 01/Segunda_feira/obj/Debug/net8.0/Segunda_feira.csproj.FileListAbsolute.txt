@@ -1,0 +1,14 @@
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\bin\Debug\net8.0\Segunda_feira.exe
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\bin\Debug\net8.0\Segunda_feira.deps.json
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\bin\Debug\net8.0\Segunda_feira.runtimeconfig.json
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\bin\Debug\net8.0\Segunda_feira.dll
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\bin\Debug\net8.0\Segunda_feira.pdb
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\Segunda_feira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\Segunda_feira.AssemblyInfoInputs.cache
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\Segunda_feira.AssemblyInfo.cs
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\Segunda_feira.csproj.CoreCompileInputs.cache
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\Segunda_feira.dll
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\refint\Segunda_feira.dll
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\Segunda_feira.pdb
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\Segunda_feira.genruntimeconfig.cache
+C:\Users\WESLEY\OneDrive\Desktop\Aulas\Aula 01\Segunda_feira\obj\Debug\net8.0\ref\Segunda_feira.dll
