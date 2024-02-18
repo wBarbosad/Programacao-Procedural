@@ -1,0 +1,29 @@
+1. Configuração de usuário (GIT): 
+
+ 1.1 git config --global user.name "wBarbosa"
+ 1.2 git config --global user.email "email"
+
+2. Adicionar o repositório na máquina.
+
+git clone link-repositorio
+
+
+
+Aula 2 - Entrada, saída, armazenamento e manipulação de dados: 
+
+
+dotnet new console dentro de uma pasta = Cria um projeto dotnet dentro da pasta;
+code . == abre o vsc
+dotnew build/run == compila/carrega o programa
+
+Explicação do código básico (1:13:29)
+
+Entrada e saída (1:27:00)
+
+
+Continuar em 3:38/:28
+
+
+4:04:00 - Transformação de um dado em outro.
+
+int.Parse() > A função recebe um texto e converte em número inteiro.
