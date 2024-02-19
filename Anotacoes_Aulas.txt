@@ -21,9 +21,12 @@ Explicação do código básico (1:13:29)
 Entrada e saída (1:27:00)
 
 
-Continuar em 3:38/:28
+Continuar em 3: 38/:28
 
 
 4:04:00 - Transformação de um dado em outro.
 
 int.Parse() > A função recebe um texto e converte em número inteiro.
+
+
+Aula 3 - Operadores aritméticos, operadores relacionais e tipo lógico
