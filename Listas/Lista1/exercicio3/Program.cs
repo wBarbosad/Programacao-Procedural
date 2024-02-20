@@ -1,14 +1,23 @@
 ﻿using System;
+using System.ComponentModel;
 
 class Program(){
     static void Main(string[] args){
-        double moedas_centavos;
-        double conversorInteiro, conversor;
+        int moedas_centavos;
+        double converterReais, inteiroReais, conversor;
 
         moedas_centavos = int.Parse(Console.ReadLine());
-        conversor = moedas_centavos/100;
-        conversorInteiro = Math.Round(conversor);
-        Console.WriteLine("Reais: " + conversorInteiro + " Fracionado " + );
+        conversor =  (moedas_centavos/100);
 
+        Console.WriteLine(Math.Round(conversor, 4));
+        converterReais = Math.Round(conversor);
+       // converterReais = Math.Round(converterReais, 2);
+        Console.WriteLine(converterReais);
+
+        double centavos = (conversor-converterReais);
+        centavos = (centavos*1000);
+        Console.WriteLine(centavos);
+
+    
     }
 }
