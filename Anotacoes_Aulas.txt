@@ -30,3 +30,8 @@ int.Parse() > A função recebe um texto e converte em número inteiro.
 
 
 Aula 3 - Operadores aritméticos, operadores relacionais e tipo lógico
+
+
+Aula 6: 
+
+Alt + Shift + seta p/ baixo = Copiar o de cima;
