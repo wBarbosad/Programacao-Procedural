@@ -35,3 +35,47 @@ Aula 3 - Operadores aritméticos, operadores relacionais e tipo lógico
 Aula 6: 
 
 Alt + Shift + seta p/ baixo = Copiar o de cima;
+
+
+===========================================================
+
+
+Aula 11: Vetores
+
+sintaxe: int[] <nome> = new int[10] ==> O vetor do tipo inteiro de nome "idades" recebe uma "nova" região de memória de tamanho 10.
+sinteaxa: string[] nomes = new string[3]
+
+
+nomevetor.Length "length = tamanho"
+
+
+
+
+Sensores ultrasônicos: 
+
+Enviam som que é refletido pelos objetivos que passam por ele.
+
+Independente da cor, formato e estrutura;
+
+
+Detecção sem contato e independente da cor, da transparência ou das características da superfície do obe
+
+
+Sensores ultrassônicos detectam todos os objetos refletores de som e medem o tempo desde a transmissão até a recepção do sinal de som. 
+Aqui a cor, a transparência e a superfície do objeto não importam.
+
+
+Emitem uma onda e essa é refletida por um objeto que o intercepta, ao retornar é lido a distância que o objeto está do sensor,
+em questão de segundos e precisão em mm.
+
+Zona morta: Não há detecção do objeto, mas após desta zona; 
+Saída ligada: Configuração até onde o sensor consegue detectar depois dessa distância ele não detecta +
+Saída desligada: 
+
+
+Sensores cilíndricos:
+Sensores blocos: 
+
+PNP:
+NPN:
+NA ou NF?
