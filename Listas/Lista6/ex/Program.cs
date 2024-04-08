@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 class Program
 {
     static void PreencherMatriz(int[,] matriz)
@@ -16,7 +16,7 @@ class Program
     {
         for (int linha = 0; linha < numeroZero.Length; linha++)
         {
-            for (int coluna = 0; coluna < numeroZero.Length; coluna++)
+            for (int coluna = 0; coluna < numeroZero.GetLength; coluna++)
             {
                 int numeroDigitado = Convert.ToInt32(Console.ReadLine());
                 numeroZero[linha, coluna] = numeroDigitado;

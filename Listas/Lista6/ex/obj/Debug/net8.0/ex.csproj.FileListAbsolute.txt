@@ -1,0 +1,15 @@
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\bin\Debug\net8.0\ex.exe
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\bin\Debug\net8.0\ex.deps.json
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\bin\Debug\net8.0\ex.runtimeconfig.json
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\bin\Debug\net8.0\ex.dll
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\bin\Debug\net8.0\ex.pdb
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.AssemblyInfoInputs.cache
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.AssemblyInfo.cs
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.sourcelink.json
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.dll
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\refint\ex.dll
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.pdb
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ex.genruntimeconfig.cache
+C:\Users\WESLEY\OneDrive\Desktop\Programacao-Procedural_Turma2024\Listas\Lista6\ex\obj\Debug\net8.0\ref\ex.dll
